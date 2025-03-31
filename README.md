@@ -1,72 +1,26 @@
-# Hello GitHub Actions
 
-[![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/skills/hello-github-actions/main.yml?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/skills/hello-github-actions/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Made with GitHub](https://img.shields.io/badge/Made%20with-GitHub-181717?style=for-the-badge&logo=github)](https://github.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/skills/hello-github-actions/pulls)
 
-*Create and run your first GitHub Actions workflow with confidence!*
+## Finish
 
----
+_Congratulations friend, you've completed this course!_
 
-## 🚀 Step 5: Trigger the workflow
+<img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 
-You've now added a fully functioning workflow to your repository! :rocket:
+Here's a recap of all the tasks you've accomplished in your repository:
 
-The shell script in the workflow will automatically run whenever a new pull request is opened, providing seamless automation for your development process.
+- You've created your first GitHub Actions workflow file.
+- You learned where to make your workflow file.
+- You defined an event trigger, a job, and a step for your workflow.
+- You're ready to automate anything you can dream of.
 
-### 🔍 Seeing your **action** in action
+### What's next?
 
-The status of each workflow run is prominently displayed in the pull request before it's merged:
-
-✅ **All checks have passed** - Your workflow executed successfully  
-❌ **Some checks failed** - There might be issues that need your attention
-
-You can track all your workflow runs in the **Actions** tab of your repository. From there, you can:
-- View detailed execution logs
-- Debug failed runs
-- Re-run workflows
-- Download artifacts
-
-![GitHub Actions Workflow](https://user-images.githubusercontent.com/16547949/62388049-4e64e600-b52a-11e9-8bf5-db0c5452360f.png)
-
-## ⌨️ Activity: Trigger the workflow
-
-<table>
-<tr>
-<td width="70%">
-
-1. Create a new branch named `test-workflow`
-2. Make a change, such as adding an emoji to your README.md file
-3. Commit the change directly to your new branch
-4. In the **Pull requests** tab, create a pull request to merge `test-workflow` into `main`
-5. Watch the workflow running in the checks section of the pull request
-6. Notice the automatic comment added by the workflow to your pull request
-7. Wait about 20 seconds, then refresh this page for instructions on the next step
-
-</td>
-<td width="30%">
-
-<img src="/api/placeholder/250/200" alt="Git Branch Workflow" />
-
-</td>
-</tr>
-</table>
-
-> 💡 **Pro tip**: GitHub Actions uses YAML syntax for workflow configuration. You can create complex automation pipelines by combining different actions from the [GitHub Marketplace](https://github.com/marketplace?type=actions).
-
----
-
-<div align="center">
-
-### Need Help?
-
-[![Discussions](https://img.shields.io/badge/Discussions-Ask%20for%20help-blue?style=for-the-badge&logo=github)](https://github.com/orgs/skills/discussions/categories/hello-github-actions)
-[![GitHub Status](https://img.shields.io/badge/GitHub%20Status-System%20Status-blue?style=for-the-badge&logo=github)](https://www.githubstatus.com/)
-
-</div>
-
----
+- Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://docs.github.com/actions/learn-github-actions)"
+- Use actions created by others in [awesome-actions](https://github.com/sdras/awesome-actions)
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions)
+- [Take another course on GitHub Actions](https://skills.github.com/#automate-workflows-with-github-actions)
+- Learn more about GitHub by reading the "[Get started](https://docs.github.com/get-started)" docs
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore)
 
 <footer>
 <div align="center">
